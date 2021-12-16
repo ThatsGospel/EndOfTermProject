@@ -23,19 +23,23 @@ I created several flock spawners which use inherited behaviours in order to filt
 | Class/asset | Source |
 |-----------|-----------|
 | AudioReaction.cs | Self written |
-| AlignmentBehavior.cs | Self written |
-| CohesionBehavior.cs | Self written |
-| AvoidanceBehavior.cs | Self written |
-| CompositeBehaviors.cs | Self written |
-| StayInRadius.cs | Self written |
-| SteeredCohesion.cs | Self written |
-| PhysicsLayerFilter.cs | Self written |
-| SameFlockFilter.cs | Self written |
+| AlignmentBehavior.cs | Self written with Guidance from Board To Bits Games |
+| CohesionBehavior.cs | Self written with Guidance from Board To Bits Games |
+| AvoidanceBehavior.cs | Self written with Guidance from Board To Bits Games |
+| CompositeBehaviors.cs | Self written with Guidance from Board To Bits Games |
+| StayInRadius.cs | Self written with Guidance from Board To Bits Games |
+| SteeredCohesion.cs | Self written with Guidance from Board To Bits Games |
+| PhysicsLayerFilter.cs | Self written with Guidance from Board To Bits Games |
+| SameFlockFilter.cs | Self written with Guidance from Board To Bits Games |
 | Movement.cs | Self written |
 | Bounce.cs | Self written |
 | StreetsOfRage - TitleTheme| Sourced from OST |
 | Assets such as notes & Neon instruments | From [https://www.pngwing.com/] [https://www.pngegg.com/]() |
 | Background | From [https://www.wallpaperbetter.com/] |
+
+# What am I proud of?
+
+I am happy with the aesthetic look of the project. I am pleased with how well the flocking behaviours work within the project also.
 
 
 
